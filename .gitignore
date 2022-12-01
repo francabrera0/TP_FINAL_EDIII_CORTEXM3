@@ -1,0 +1,11 @@
+.metadata
+.mcuxpressoide_packages_support
+FreeRTOS_TAD_logs
+AzureRTOS_TAD_logs
+ZephyrRTOS_TAD_logs
+./TP_FINAL_Cabrera_Caramuti/Debug
+./CMSISv2p00_LPC17xx/Debug
+./TP_FINAL_Cabrera_Caramuti/.Settings
+./TP_FINAL_Cabrera_Caramuti/.cproject
+./TP_FINAL_Cabrera_Caramuti/.project
+./TP_FINAL_Cabrera_Caramuti/TP_FINAL_Cabrera_Caramuti\ LinkServer\ Debug.launch

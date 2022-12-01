@@ -1,0 +1,9 @@
+../src/TP_FINAL_Cabrera_Caramuti.c:31:5:main	24	static
+../src/TP_FINAL_Cabrera_Caramuti.c:52:6:EINT0_IRQHandler	8	static
+../src/TP_FINAL_Cabrera_Caramuti.c:61:6:EINT1_IRQHandler	8	static
+../src/TP_FINAL_Cabrera_Caramuti.c:71:6:EINT2_IRQHandler	8	static
+../src/TP_FINAL_Cabrera_Caramuti.c:79:6:finish	8	static
+../src/TP_FINAL_Cabrera_Caramuti.c:89:6:EINT3_IRQHandler	4	static
+../src/TP_FINAL_Cabrera_Caramuti.c:96:6:ADC_IRQHandler	24	static
+../src/TP_FINAL_Cabrera_Caramuti.c:111:6:TIMER1_IRQHandler	8	static
+../src/TP_FINAL_Cabrera_Caramuti.c:124:6:sendData	32	static

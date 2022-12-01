@@ -1,0 +1,5 @@
+../src/loadcell.c:6:10:getWeight	16	static
+../src/loadcell.c:12:13:blink	16	static
+../src/loadcell.c:22:10:getTare	16	static
+../src/loadcell.c:36:6:start	16	static
+../src/loadcell.c:49:6:stop	16	static

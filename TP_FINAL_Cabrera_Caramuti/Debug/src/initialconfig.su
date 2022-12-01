@@ -1,0 +1,9 @@
+/home/francabrera/Desktop/Electrónica Digital III/TP_FINAL_LPC1769_CORTEXM3/CMSISv2p00_LPC17xx/inc/core_cm3.h:928:22:NVIC_EnableIRQ	16	static
+../src/initialconfig.c:17:5:initialConfigurations	8	static
+../src/initialconfig.c:30:13:configEINT	8	static
+../src/initialconfig.c:44:13:configPIN	4	static
+../src/initialconfig.c:50:13:configADC	8	static
+../src/initialconfig.c:63:13:configTIMER0	32	static
+../src/initialconfig.c:84:6:configTIMER1	32	static
+../src/initialconfig.c:110:13:configUART	16	static
+../src/initialconfig.c:123:6:configGPIOInt	8	static
